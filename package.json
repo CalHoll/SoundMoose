@@ -96,7 +96,7 @@
     "karma-mocha-reporter": "^2.2.2",
     "rxjs": "5.0.1",
     "script-ext-html-webpack-plugin": "^1.5.0",
-    "three": "^0.83.0",
+    "three": "^0.130.0",
     "three-orbit-controls": "^82.1.0",
     "ts-md5": "^1.2.0",
     "zone.js": "~0.7.2"
