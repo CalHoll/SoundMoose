@@ -78,7 +78,7 @@
     "@ngrx/store": "^2.2.1",
     "@ngrx/store-devtools": "^3.2.3",
     "@types/auth0": "^2.3.33",
-    "@types/auth0-lock": "^10.9.0",
+    "@types/auth0-lock": "^11.27.2",
     "@types/howler": "^2.0.0",
     "@types/jasmine": "^2.5.41",
     "@types/jquery": "^2.0.39",
